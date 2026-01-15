@@ -44,13 +44,13 @@ In the tables below, we present a comparison among the different models.
   <img src="resources/Out-domain.png" alt="Out-Domain Results" width="300" height="300"/>
 </div>
 
-- in-domain Train
+- In-Domain Train
 ```bash
 cd ~/GRPO_indomain
 python GRPO-1K-def.py
 ```
 
-- out-domain Train
+- Out-Domain Train
 ```bash
 cd ~/GRPO_outdomain
 python GRPO-Hybrid.py
