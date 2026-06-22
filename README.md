@@ -2,6 +2,9 @@
 This thesis investigates the use of Group-Relative Policy Optimization (GRPO) to improve reasoning and generalization in large language models through a novel reward approach based on both internal (intrinsic) and external feedback. Starting from a model trained with Supervised Fine-Tuning (SFT), we apply GRPO as an additional reinforcement learning step to encourage more robust and comparative learning behaviors. Through experimental analysis, we study how GRPO affects model accuracy, robustness, and generalization, while also discussing the impact of non-optimal hyperparameters and early experimental configurations. We compare our approach with state-of-the-art approaches, finding that in out-of-domain tests, our technique significantly outperforms the others.
 Furthermore, we tested our training approach on a complex multi-tool API-calling task, which yielded encouraging results.
 
+
+[PAPER](Paper_Hybrid_reward(1).pdf)
+
 ## Execution Pipeline
 1. Enviroment Setup
 2. SFT Train
