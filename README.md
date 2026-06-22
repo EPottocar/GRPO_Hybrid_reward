@@ -3,7 +3,7 @@ This thesis investigates the use of Group-Relative Policy Optimization (GRPO) to
 Furthermore, we tested our training approach on a complex multi-tool API-calling task, which yielded encouraging results.
 
 
-[PAPER](Paper_Hybrid_reward(1).pdf)
+[PAPER](Paper_Hybrid_reward.pdf)
 
 ## Execution Pipeline
 1. Enviroment Setup
